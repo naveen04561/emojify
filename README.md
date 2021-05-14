@@ -1,3 +1,3 @@
 # emojify
 
-Facial Emotion detection using convolution neural networks and mapping them to emojis.
+Facial Emotion detection using convolutional neural networks and mapping them to emojis.
